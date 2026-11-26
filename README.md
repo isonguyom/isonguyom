@@ -16,16 +16,16 @@ My experience spans fintech applications, SaaS products, and maritime technology
 
 ## Tech Stack
 
-**Languages**
+**Languages:**
 JavaScript (ES6+) · TypeScript · HTML5 · CSS3
 
-**Frontend**
+**Frontend:**
 Vue.js · Nuxt.js · React · Next.js · Tailwind CSS
 
-**Backend & Databases**
+**Backend & Databases:**
 Node.js · Express.js · Python · Django · MongoDB · PostgreSQL
 
-**Tools & Technologies**
+**Tools & Technologies:**
 Git · GitHub · REST APIs · Vitest · Cypress · Docker
 
 ## Featured Projects

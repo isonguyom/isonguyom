@@ -8,31 +8,27 @@ My primary strength is **Vue.js**, with additional experience in React, Next.js,
 
 My experience spans fintech applications, SaaS products, and maritime technology.
 
-- 🔭 Building and exploring practical digital products.
-- 🌱 Continuously improving my skills in TypeScript, frontend architecture, and software engineering.
-- 💡 Interested in fintech, maritime technology, and AI-powered applications.
-- 🤝 Open to collaborating with engineering teams and contributing to meaningful products.
-- 🌍 Open to international remote opportunities.
+- Building and exploring practical digital products.
+- Continuously improving my skills in TypeScript, frontend architecture, and software engineering.
+- Interested in fintech, maritime technology, and AI-powered applications.
+- Open to collaborating with engineering teams and contributing to meaningful products.
+- Open to international remote opportunities.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
-
 JavaScript (ES6+) · TypeScript · HTML5 · CSS3
 
 **Frontend**
-
 Vue.js · Nuxt.js · React · Next.js · Tailwind CSS
 
 **Backend & Databases**
-
 Node.js · Express.js · Python · Django · MongoDB · PostgreSQL
 
 **Tools & Technologies**
-
 Git · GitHub · REST APIs · Vitest · Cypress · Docker
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [FlowPay](https://github.com/isonguyom/flowpay-app)
 A fintech application exploring payment workflows, financial dashboards, and transaction management.
@@ -46,24 +42,15 @@ A maritime voyage ETA calculator designed to estimate vessel arrival times using
 ### [MaritimeBench](https://github.com/isonguyom/MaritimeBench)
 A benchmark for evaluating AI systems on operational maritime voyage planning, with deterministic reference answers and automated evaluation.
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Software Engineer — Mango Zest Labs**
-
 January 2026 – June 2026
 
 **Frontend Developer — Agba Bills**
-
 December 2023 – September 2025
 
-## 🎓 Background
-
-Higher Diploma in Marine Engineering  
-Regional Maritime University, Accra, Ghana.
-
-My engineering background gives me an additional perspective on maritime operations and the opportunities for technology and digitalization within the maritime industry.
-
-## 📫 Connect With Me
+## Connect With Me
 
 - **Portfolio:** [isonguyom.github.io/me](https://isonguyom.github.io/me/)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/martin-isonguyo/)

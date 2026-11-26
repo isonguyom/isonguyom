@@ -28,19 +28,27 @@ Node.js · Express.js · Python · Django · MongoDB · PostgreSQL
 **Tools & Technologies:**
 Git · GitHub · REST APIs · Vitest · Cypress · Docker
 
-## Featured Projects
+##  Featured Projects
 
 ### [FlowPay](https://github.com/isonguyom/flowpay-app)
-A fintech application exploring payment workflows, financial dashboards, and transaction management.
+A full-stack multi-currency payment platform featuring digital wallets, currency exchange, transaction processing, authentication, and real-time updates. Built with a focus on secure payment workflows and financial data management.
+
+**Tech:** Vue 3, TypeScript, Pinia, Tailwind CSS, Node.js, Express, MongoDB.
 
 ### [Borderless](https://github.com/isonguyom/borderless)
-A cross-border payment application focused on wallet management, currency exchange, transfers, and transaction history.
+A frontend-focused cross-border payment application featuring wallet management, currency conversion, international transfers, transaction history, and FX analytics. Demonstrates interactive UI development and state management.
+
+**Tech:** Vue.js, JavaScript, Tailwind CSS, Vite, Vitest, Cypress.
 
 ### [Naviscope ETA](https://github.com/isonguyom/naviscope-eta)
-A maritime voyage ETA calculator designed to estimate vessel arrival times using voyage distance and vessel speed.
+A maritime voyage planning application that estimates vessel arrival times based on voyage distance and vessel speed, translating practical maritime concepts into a functional digital tool.
+
+**Tech:** Next.js, React, TypeScript.
 
 ### [MaritimeBench](https://github.com/isonguyom/MaritimeBench)
-A benchmark for evaluating AI systems on operational maritime voyage planning, with deterministic reference answers and automated evaluation.
+An evaluation benchmark for assessing AI systems on operational maritime voyage planning. Features deterministic reference answers, automated grading, and test scenarios covering weather restrictions, port receiving windows, waiting periods, and voyage deadlines.
+
+**Tech:** TypeScript, Node.js, Zod, Vitest, OpenAI API.
 
 ## Professional Experience
 
